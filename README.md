@@ -1,2 +1,2 @@
-# sr2drat
-A tool that converts SR proofs into DRAT proofs
+# ppr2drat
+Tool to transform PPR proofs into DRAT proofs
